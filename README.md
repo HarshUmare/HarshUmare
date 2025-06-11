@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently focused on Full Stack Web Development
-👯 I’m looking to collaborate on exciting projects
-💼 I’m actively looking for job opportunities
-🌱 I’m currently learning advanced concepts in React.js
-🤝 Open to contributing to open-source and team-based development work
+🔭 I’m currently focused on Full Stack Web Development<br>
+👯 I’m looking to collaborate on exciting projects<br>
+💼 I’m actively looking for job opportunities<br>
+🤝 Open to contributing to open-source and team-based development work <br>
 
 
 ## 🌐 Socials:
